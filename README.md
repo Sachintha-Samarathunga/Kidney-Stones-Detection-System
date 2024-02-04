@@ -1,4 +1,6 @@
-# Kidney Stones Detection System Through AI-Enhanced Image Processing
+# Final Year Research & Project
+
+## Kidney Stones Detection System Through AI-Enhanced Image Processing
 
 The main objective of this project is to detect the kidney stone from the digital ultrasound image of 
 the kidney by performing various image processing techniques. By utilizing advanced machine learning 
