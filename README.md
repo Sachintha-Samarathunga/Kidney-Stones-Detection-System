@@ -9,6 +9,11 @@ algorithms and image processing techniques.
 [![Version](https://img.shields.io/badge/version-1.0-brightgreen.svg)](https://pypi.org/project/ad-topic-recommender/)
 [![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-blue.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
+![01](https://github.com/Sachintha-Samarathunga/Kidney-Stones-Detection-System/assets/98406068/debafffe-ac9a-49d1-b9db-a82963c4048b)
+![02](https://github.com/Sachintha-Samarathunga/Kidney-Stones-Detection-System/assets/98406068/83558819-05a1-416e-adf9-0c2c154c70ae)
+![03](https://github.com/Sachintha-Samarathunga/Kidney-Stones-Detection-System/assets/98406068/defd3133-b145-47b5-ad83-c1781d2af25c)
+![04](https://github.com/Sachintha-Samarathunga/Kidney-Stones-Detection-System/assets/98406068/91d68950-7e30-4333-bc0a-8625619d3a74)
+
 ## Table of Contents
 
 - [Description](#description)
