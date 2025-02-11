@@ -16,14 +16,6 @@ front-end - https://github.com/Sachintha-Samarathunga/Kidney-Stones-Detector-fro
 ![03](https://github.com/Sachintha-Samarathunga/Kidney-Stones-Detection-System/assets/98406068/9fbed485-225f-4826-aa82-0e5a3974a33d)
 ![04](https://github.com/Sachintha-Samarathunga/Kidney-Stones-Detection-System/assets/98406068/45941fca-fbce-4cdb-9e25-df90d9f56a75)
 
-## Table of Contents
-
-- [Description](#description)
-- [Overview](#overview)
-- [Problem Statement](#problem-statement)
-- [License](#license)
-- [Contact Information](#contact-information)
-
 ## Description
 
 This is a template repository for a FastAPI back-end project. It is intended to be used as a starting 
@@ -42,11 +34,6 @@ kidney stones in pictures of the kidneys, helping doctors identify and treat the
 
 The primary goal of this project is to develop an automated system that can accurately detect the presence 
 of kidney stones in ultrasound medical images.
-
-## Contributing
-
-If you'd like to contribute to this project, please check the contribution guidelines for more information.
-
 
 ## Contact Information
 
