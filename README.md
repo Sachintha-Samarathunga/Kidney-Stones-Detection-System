@@ -40,5 +40,5 @@ of kidney stones in ultrasound medical images.
 For questions or feedback, please contact the author:
 
 - Author: Sachintha Samarathunga
-- Email: samakashyapa@gmail.com
+- Email: sachinthasamarathunga@gmail.com
 
